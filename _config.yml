@@ -1,0 +1,28 @@
+name: Labrador Juno
+favicon: null
+layout_spectrum: 0.7691771856043488
+typography_spectrum: 0.064176753628999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6687741889618337
+  lightness: 0.3096973691135645
+  saturation: 0.1953774276189506
+  rhythmicContrast: 0.14697028300724924
+purpose: []
